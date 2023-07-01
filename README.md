@@ -34,13 +34,6 @@ where:
 - `dw` is the gradient of the weights
 - `db` is the gradient of the bias
 
-## Usage
-
-1. Clone the repository:
-   ```shell
-   git clone <repository_url>
-   cd logistic-regression
-
 ## References
 
 - [Logistic regression on Wikipedia](https://en.wikipedia.org/wiki/Logistic_regression)
