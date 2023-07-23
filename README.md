@@ -1,5 +1,4 @@
-# RegressionImp
-Logistic Regression Implementation
+# Logistic Regression Implementation
 
 This repository contains an implementation of logistic regression in Python using NumPy. Logistic regression is a supervised learning algorithm used for binary classification problems.
 
